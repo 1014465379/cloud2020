@@ -1,0 +1,4 @@
+com\atguigu\springcloud\CloudConsumerOrder80Application.class
+com\atguigu\springcloud\controller\OrderController.class
+com\atguigu\myrule\MySelfRule.class
+com\atguigu\springcloud\config\ApplicationContextConfig.class
